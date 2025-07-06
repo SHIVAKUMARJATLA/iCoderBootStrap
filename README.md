@@ -2,7 +2,7 @@
 
 **iCoder** is a modern, responsive front-end web template built using [Bootstrap](https://getbootstrap.com/) that showcases a tech blog-style layout with pages like Home, About, and Contact Us.
 
-🌐 <a href="https://shivakumarjatla.github.io/iCoderBootStrap/" target="_blank">Live Site</a>
+🌐 **Live Site:** [https://shivakumarjatla.github.io/iCoderBootStrap/](https://shivakumarjatla.github.io/iCoderBootStrap/)
 
 ---
 
