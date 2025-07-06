@@ -56,22 +56,6 @@ iCoderBootStrap/
 
 ---
 
-## 🖼️ Preview Screenshots
-
-> To include screenshots in your README:
-
-1. Add images (e.g., `screenshot-home.png`, `screenshot-about.png`) inside your `images/` folder.
-2. Use the following markdown to embed them:
-
-```markdown
-![Home Page](images/screenshot-home.png)
-![About Page](images/screenshot-about.png)
-```
-
-> ✅ **Note:** GitHub will automatically render these images in your README if the image path is correct and committed.
-
----
-
 ## 📣 Credits
 
 Developed by **[Shiva Kumar Jatla](https://github.com/SHIVAKUMARJATLA)**  
