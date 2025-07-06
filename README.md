@@ -1,5 +1,3 @@
-README.md - Markdown Code
-
 # 💻 iCoderBootStrap
 
 **iCoder** is a modern, responsive front-end web template built using [Bootstrap](https://getbootstrap.com/) that showcases a tech blog-style layout with pages like Home, About, and Contact Us.
